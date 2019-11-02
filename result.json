@@ -1,0 +1,44 @@
+[
+  {
+    "score" : 85,
+    "id": 191374,
+    "resultString": "Excellent!",
+    "successful": "false",
+    "feedbacks": [
+      {
+        "credits": 0,
+        "type": "MANUAL",
+        "text": "well done!",
+        "detailText" : "detailText",
+        "referenceId": null,
+        "referenceType": null,
+        "positive": "true"
+      }
+    ]
+  },
+  {
+    "score" : 100,
+    "id": 191374,
+    "resultString": "Excellent!!!",
+    "successful": "true",
+    "feedbacks": [
+      {
+        "credits": 0,
+        "type": "MANUAL",
+        "text": "Test1",
+        "detailText" : "detailText",
+        "referenceId": null,
+        "referenceType": null,
+        "positive": "true"
+      },
+      {
+        "credits": 0,
+        "type": "MANUAL",
+        "text": "Test2",
+        "detailText" : "Test detailText",
+        "referenceId": null,
+        "referenceType": null
+      }
+    ]
+  }
+]
